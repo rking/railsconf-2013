@@ -36,3 +36,12 @@ If so, contact the author directly, first. This means a patch can be released co
 - …when this fails: fix it yourself
 
 ## Your Own Gems
+
+- Easy: It's a secret.
+  * Fix/test/release
+- Medium: When there's an existing exploit in the wild, e.g. if the bad guys know about it, but the good guys don't.
+  * Fix ASAP/test/release
+  * Announce (, if it won't make things worse
+- Hard: researcher out for glory
+  * Respond ASAP, set expectations, update regularly, thank profusely
+  * fix + release
