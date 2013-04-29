@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>RailsConf 2013 - April 29 - May 2 in Portland, OR</title>
+  <link href='http://fonts.googleapis.com/css?family=Rokkitt:700' rel='stylesheet' type='text/css'>
+  <link href="../assets/application-43bd2c8fbcd8983f3809fe4fa35323af.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="../assets/application-2ec1256bc1c1f0e659b39b7d59c78807.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="8boEA0CL+h2fFPqnn4GratPfOwk7EvuhYkxIq/hJsfI=" name="csrf-token" />
+  
+</head>
+
+<body id="">
+<div id="siteWrapper">
+  <div id="navWrapper">
+    <div class="inner">
+    <ul>
+      <li><a href="../index.html" class="home ">Home</a></li>
+      <li><a href="schedule">Schedule</a></li>
+      <li><a href="location">Location</a></li>
+      <li><a href="talks">Program</a></li>
+      <li><a href="sponsors" class="current">Sponsors</a></li>
+      <li><a href="about">About</a></li>
+
+      <li><a href="stream">Live Stream</a></li>
+    </ul>
+  </div><!--/inner-->
+  </div><!--/navWrapper-->
+
+  <div id="mainWrapper">
+    <div class="inner">
+      <h1><a href="../index.html"><img alt="RailsConf Portland - April 29-May 2, 2013" id="logo" src="../assets/railsconf-banner-small-b560b19575e44d84bc95bdd8ca886592.png" /></a></h1>
+<div class="spHead"><h2>Sponsors</h2></div>
+
+<div class="main">
+  <div class="block">
+    <p>
+      It’s the largest official gathering of the year, and is attended by top Rails talent, companies
+      and project representatives from all over the world. The 2013 edition of RailsConf is presented
+      by Ruby Central, Inc., and will be held in Portland, OR. RailsConf is the place for product
+      launches, project announcements and good old fashioned networking: whether you’re looking to
+      recruit, to promote your product or just to soak in the content, you need to be at RailsConf.
+    </p>
+  </div><!--/block-->
+
+      <div class="block">
+        <h3>Platinum Sponsors</h3>
+
+          <div class="sponsor" id="tilde">
+            <a href="http://www.tilde.io"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/tilde-140x140-73a43b3c12407d18427924ebba3524a7.png" /></a>
+            <h4>Tilde</h4>
+            <h6><a href="http://www.tilde.io">website</a></h6>
+            <p>Tilde in an open-source focused startup in San Francisco. We're led by alumni and current leaders of projects like Ruby on Rails, jQuery, and most recently, Ember. We provide training and consulting services while contributing funds and resources back into building and maintaining the vibrant open source communities we love.
+</p>
+          </div><!--/sponsor-->
+      </div>
+      <div class="block">
+        <h3>Gold Sponsors</h3>
+
+          <div class="sponsor" id="new-relic">
+            <a href="http://newrelic.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/new-relic-140x140-61baf49d17afca66020f7ac8bc8cd518.png" /></a>
+            <h4>New Relic</h4>
+            <h6><a href="http://newrelic.com">website</a></h6>
+            <p>New Relic, Inc. is the leading application performance management provider for the cloud and the data center. Its SaaS solution, which combines real user monitoring, application monitoring, and server monitoring in a single solution built from the ground up, changes the way developers and operations teams manage application performance in real-time. More than 30,000 organizations use New Relic to optimize over 8 billion transactions in production each day.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="heroku">
+            <a href="http://www.heroku.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/heroku-140x140-457b75f9b505f2fc2ff82a795fcb4caf.png" /></a>
+            <h4>Heroku</h4>
+            <h6><a href="http://www.heroku.com">website</a></h6>
+            <p>Heroku’s platform as a service allows your organization to build faster, deploy instantly and scale on demand without managing servers. Gain the flexibility to deploy any language any time and to any scale. Maintain control by isolating, running and monitoring independent processes. Heroku makes it effortless. Sign up at Heroku.com.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="developer-auction">
+            <a href="https://developerauction.com/?utm_source=railsconf"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/developer-auction-140x140-712541a6dea9b912be87779edacf1013.png" /></a>
+            <h4>Developer Auction</h4>
+            <h6><a href="https://developerauction.com/?utm_source=railsconf">website</a></h6>
+            <p>DeveloperAuction is the first transparent marketplace that connects great engineers directly to hiring managers at over 500+ fantastic VC-backed companies through two week long “auctions” where employers submit job opportunities with full compensation details to engineers they are interested in interviewing.  We’ve facilitated over $250m in job offers!</p>
+          </div><!--/sponsor-->
+      </div>
+      <div class="block">
+        <h3>Silver Sponsors</h3>
+
+          <div class="sponsor" id="engine-yard">
+            <a href="https://www.engineyard.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/engine-yard-140x140-cd3f992de8458fb9b27008f0a51f742c.png" /></a>
+            <h4>Engine Yard</h4>
+            <h6><a href="https://www.engineyard.com/">website</a></h6>
+            <p>Engine Yard is the leading Platform as a Service (PaaS) and provides a trusted, commercial grade solution that enables developers to focus on creating great cloud applications, instead of managing their platform.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="wyeworks">
+            <a href="http://www.wyeworks.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/wyeworks-140x140-9cbaf36d8ceb5c2700cb9bc5bd04478d.png" /></a>
+            <h4>WyeWorks</h4>
+            <h6><a href="http://www.wyeworks.com/">website</a></h6>
+            <p>WyeWorks is the best way to expand your Rails team. We act as if we're part of your company. We're Agile. We use Scrum. We communicate progress every day. Quality is taken to heart. We do constant code reviews, pair programming and TDD. We also invest in the Rails development.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="whitepages">
+            <a href="http://www.whitepages.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/whitepages-140x140-e882456f084a2abdd6f43cd0c6c3f79c.png" /></a>
+            <h4>WhitePages</h4>
+            <h6><a href="http://www.whitepages.com/">website</a></h6>
+            <p>WhitePages is the leading provider of contact information for people and businesses in the U.S. With over 40 million unique monthly users and powering over 2 billion searches per year across sites that include WhitePages.com and 411.com, WhitePages offers consumers one-click access to more than 200 million adults and also provides them with the ability to edit and control their own listings. The company’s suite of mobile products includes a top-50 mobile website and popular Android and iPhone apps with over 9 million active monthly users.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="jetbrains">
+            <a href="http://www.jetbrains.com/ruby/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/jetbrains-140x140-0efb6bb9fac406fae8e7cc1b6451a3ed.png" /></a>
+            <h4>JetBrains</h4>
+            <h6><a href="http://www.jetbrains.com/ruby/">website</a></h6>
+            <p>JetBrains is a world leader in smart development tools that help software developers simplify their challenging tasks and automate the routine ones. RubyMine (www.jetbrains.com/ruby), the most powerful Ruby and Rails IDE, provides smart coding assistance and advanced testing and debugging features for all types of Ruby projects and cutting-edge technologies. </p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="blue-box">
+            <a href="https://bluebox.net"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/blue-box-140x140-2af57ce8cb9020bbb96fc23b92172c02.png" /></a>
+            <h4>Blue Box</h4>
+            <h6><a href="https://bluebox.net">website</a></h6>
+            <p>Blue Box combines the best of PaaS and IaaS to deliver the scalable hardware, powerful software, and compelling managed services customers require. Stretching from bare metal to the cloud, this unique architecture ensures the robust performance, game-changing uptime and agile custom solutions needed to host the most demanding websites and apps.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="hp">
+            <a href="https://www.hpcloud.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/hp-140x140-5e3399a0809b5acbe2b2093400636421.png" /></a>
+            <h4>HP</h4>
+            <h6><a href="https://www.hpcloud.com/">website</a></h6>
+            <p>HP Cloud Services delivers public cloud infrastructure, platform services, and cloud solutions for developers, ISVs, partners, service providers, and enterprises. HP Cloud Compute and HP Cloud Object Storage are built on HP’s world class hardware and software, with key elements of HP Converged Infrastructure and a developer-friendly integration of OpenStack™ technology.</p>
+          </div><!--/sponsor-->
+      </div>
+      <div class="block">
+        <h3>Exhibitors</h3>
+
+          <div class="sponsor" id="hulu">
+            <a href="http://hulu.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/hulu-140x140-38678452c857285399afeb0e4f467ac3.png" /></a>
+            <h4>Hulu</h4>
+            <h6><a href="http://hulu.com">website</a></h6>
+            <p>Hulu's mission is to help people find and enjoy the world's premium video content when, where and how they want it. As we pursue this mission, we aspire to create a service that users, advertisers and content owners unabashedly love.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="linode">
+            <a href="https://www.linode.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/linode-140x140-4df76c2d88e85205d83654318ac3311c.png" /></a>
+            <h4>Linode</h4>
+            <h6><a href="https://www.linode.com">website</a></h6>
+            <p>Linode offers cloud hosting services to businesses from around the world - serving more than 50,000 customers from six facilities across the U.S., Europe, and Asia. Since 2003 the company has provided customers with 24/7 live support and tools that make it easy to deploy servers on demand.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="cookpad">
+            <a href="http://info.cookpad.com/en/service"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/cookpad-140x140-3a5b48bb3a993279126c6e983629f93c.png" /></a>
+            <h4>COOKPAD</h4>
+            <h6><a href="http://info.cookpad.com/en/service">website</a></h6>
+            <p>COOKPAD is Japan’s top recipe site allowing visitors to upload and search through original, user-created recipes. Currently being used by almost 80-90% of all Japanese women in their 20-30s, COOKPAD has become an essential tool in enabling families to enjoy cooking across Japan. As of July 2012, COOKPAD had a total of 20 million users and more than 1.2 million registered recipes.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="lumos-labs">
+            <a href="http://www.lumosity.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/lumos-labs-140x140-fc8ac1a4c92cc537aa626e1264fe1a48.png" /></a>
+            <h4>Lumos Labs</h4>
+            <h6><a href="http://www.lumosity.com">website</a></h6>
+            <p>Lumosity is like a gym for your brain. We're the world’s largest provider of brain training games, but we make much more than games. Our cognitive training exercises are cutting-edge, based on neuroscience, and can help make people smarter. (And they’re fun to boot.) With over 40 million members, we occupy a new techno-scientific niche that we believe will change our understanding of the human brain and improve people's lives.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="wgs">
+            <a href="http://www.wgs.co.id/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/wgs-140x140-75e15a7d4550641d806db83244005348.png" /></a>
+            <h4>WGS</h4>
+            <h6><a href="http://www.wgs.co.id/">website</a></h6>
+            <p>WGS is the leading Ruby on Rails offshore outsourcing company based in Bandung, Indonesia. WGS has more than 120 RoR developers, has completed 100+ RoR projects for 100+ clients from over 17 countries in the world. WGS clients range from internet startups, software houses, government institutions, and enterprises. WGS provides both fixed-price project development and developers on man-month basis.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="sendgrid">
+            <a href="http://sendgrid.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/sendgrid-140x140-7c20b52c39cce547fff6713cf6b079a3.png" /></a>
+            <h4>SendGrid</h4>
+            <h6><a href="http://sendgrid.com/">website</a></h6>
+            <p>On average 20% of legitimate email never reaches the inbox. SendGrid solves this problem for thousands of companies, delivering billions of messages to the inbox. By replacing the need to manage your own email servers and delivering email on your behalf, we allow you to focus on what your business does well.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="women-who-code">
+            <a href="http://womenwhocode.com"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/women-who-code-140x140-7f9e229473268c4943f7c5a8aaebd820.png" /></a>
+            <h4>Women Who Code</h4>
+            <h6><a href="http://womenwhocode.com">website</a></h6>
+            <p>Women Who Code is an organization dedicated to increasing the number of women working in tech. Founded in 2011, the group is now 2800 members strong. Weekly events include study groups to teach women Ruby on Rails, iOS, Scala, and JavaScript. Monthly events include Tech Talks, Hack Nights, and career enhancement trainings. Women Who Code has been sponsored by more than 70 top tech companies in the Bay Area.</p>
+          </div><!--/sponsor-->
+          <div class="sponsor" id="amazon">
+            <a href="http://aws.amazon.com/"><img alt="" class="sponsor-page-logo" src="../assets/sponsors/amazon-140x140-c4b48709626395b640002e9c0f1a159b.png" /></a>
+            <h4>Amazon</h4>
+            <h6><a href="http://aws.amazon.com/">website</a></h6>
+            <p>Built upon the same world-class technology that powers Amazon.com, Amazon Web Services (AWS) provides businesses with a secure, reliable, easy-to-scale, low-cost computing platform “in the cloud.” Companies of all sizes, from all around the globe use AWS to build applications, store data, manage business processes, and more.</p>
+          </div><!--/sponsor-->
+      </div>
+</div><!--/main-->
+
+<div class="sidebar">
+  <div class="floater">
+    <h3>Become a Sponsor</h3>
+    <p>
+      We are currently soliciting sponsorship proposals for RailsConf 2013.
+    </p>
+    <p>
+      For more information, please download the
+      <a href="prospectus.pdf">sponsorship prospectus</a> or
+      <a href="mailto:sponsors@rubycentral.org">email us directly</a>.
+    </p>
+  </div><!--/floater-->
+  &nbsp; 
+  <div class="floater">
+    <h3>Exhibitor Kit</h3>
+    <p>
+      Please click
+      <a href="http://www.triumphexpo.com/kits/2013/rails/index.html">here</a>
+      to access the Exhibitor Kit. If you need assistance with it, please
+      <a href="mailto:may@tilde.io">email us</a>.
+    </p>
+  </div><!--/floater-->
+</div><!--/sidebar-->
+<div class="break"></div>
+    </div>
+  </div>
+
+
+  <div id="footerWrapper">
+    <div class="inner">
+    <p class="btyb">Brought to you by</p>
+    <a href="http://www.rubycentral.org/"><img alt="Ruby Central" src="../assets/rubycentral-7b75fae385913a25ec6100fdadd4e656.png" /></a>
+
+    <p class="links">&copy; 2013 Ruby Central, Inc. Question or comment? <a href="mailto:railsconf@rubycentral.org">Let us know!</a><br />
+      Follow us <a href="http://twitter.com/railsconf">@railsconf</a>
+    </p>
+    </div><!--/inner-->
+  </div><!--footerWrapper-->
+
+</div><!--/siteWrapper-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34011278-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

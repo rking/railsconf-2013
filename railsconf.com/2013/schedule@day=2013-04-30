@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>RailsConf 2013 - April 29 - May 2 in Portland, OR</title>
+  <link href='http://fonts.googleapis.com/css?family=Rokkitt:700' rel='stylesheet' type='text/css'>
+  <link href="../assets/application-43bd2c8fbcd8983f3809fe4fa35323af.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="../assets/application-2ec1256bc1c1f0e659b39b7d59c78807.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="BnLccESvc/+NNOdaQzfnsdYDV92IRrXqr0zOHtd5z5Y=" name="csrf-token" />
+  <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+
+</head>
+
+<body id="schedule">
+<div id="siteWrapper">
+  <div id="navWrapper">
+    <div class="inner">
+    <ul>
+      <li><a href="../index.html" class="home ">Home</a></li>
+      <li><a href="schedule" class="current">Schedule</a></li>
+      <li><a href="location">Location</a></li>
+      <li><a href="talks">Program</a></li>
+      <li><a href="sponsors">Sponsors</a></li>
+      <li><a href="about">About</a></li>
+
+      <li><a href="stream">Live Stream</a></li>
+    </ul>
+  </div><!--/inner-->
+  </div><!--/navWrapper-->
+
+  <div id="mainWrapper">
+    <div class="inner">
+      
+<h1><a href="../index.html"><img alt="RailsConf Portland - April 29-May 2, 2013" id="logo" src="../assets/railsconf-banner-small-b560b19575e44d84bc95bdd8ca886592.png" /></a></h1>
+
+<div class="days">
+  <ul>
+     <li><a href="schedule@day=2013-04-29">Mon 4/29</a></li>
+     <li><a href="schedule@day=2013-04-30" class="current">Tue 4/30</a></li>
+     <li><a href="schedule@day=2013-05-01">Wed 5/1</a></li>
+     <li><a href="schedule@day=2013-05-02">Thu 5/2</a></li>
+  </ul>
+  <div class="break"></div>
+</div>
+
+<div class="timeslot"></div>
+<div class="talkgroup">
+  <p>Registration will be open from 8:00am to 5:00pm Monday-Wednesday, and 8:00am to 12:00pm on Thursday.</p>
+  <p>The Expo Hall will be open from 11:00am to 4:00pm on Tuesday and Wednesday.</p>
+</div>
+
+  <div class="timeslot">
+    <h3>Plenary</h3>
+    <p>10:00am-11:15am</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot full">
+        <h4>251+257+258</h4>
+        <h5>Morning announcements and keynote</h5>
+        <p>Yehuda Katz</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p>11:30am-12:10pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-5">Rails Vs. The Client Side</a></h5>
+        <p>Noel Rappin</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-28">Of Buyers And Renters and keeping a roof over our heads</a></h5>
+        <p>Sebastian Delmont</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5><a href="talks#talk-9">Make Your Application Snappier With Asynchronous Workers</a></h5>
+        <p>Dave Kapp</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5><a href="talks#talk-64">TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data</a></h5>
+        <p>Harlow Ward &amp; Adarsh Pandit</p>
+      </div>
+      <div class="slot ">
+        <h4>P&amp;S</h4>
+        <h5><a href="talks#talk-57">Data Builds in WhitePages</a></h5>
+        <p>Matt Woodward</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p>12:20pm- 1:00pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-7">The Magic Tricks of Testing</a></h5>
+        <p>Sandi Metz</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-22">Cache = Cash!</a></h5>
+        <p>Stefan Wintermeyer</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5><a href="talks#talk-12">Split Testing for Product Discovery</a></h5>
+        <p>Bryan Woods</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5>TDD Workshop: Mocking, Stubbing, and Faking External Services</h5>
+        <p>Harlow Ward &amp; Adarsh Pandit</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Lunch</h3>
+    <p> 1:00pm- 2:00pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot full">
+        <h4></h4>
+        <h5>Lunch</h5>
+        
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p> 2:00pm- 2:40pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-15">From Rails to the Web Server to the Browser</a></h5>
+        <p>David Padilla</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-29">Sleeping with the enemy</a></h5>
+        <p>George Brocklehurst</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5><a href="talks#talk-8">Introducing Brainstem, your companion for rich Rails APIs</a></h5>
+        <p>Andrew Cantino</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5><a href="talks#talk-65">Testing Complex Systems: Creating data and limiting scope</a></h5>
+        <p>Noel Rappin</p>
+      </div>
+      <div class="slot ">
+        <h4>P&amp;S</h4>
+        <h5><a href="talks#talk-61">Flattening The Cloud Learning Curve Using Rails</a></h5>
+        <p>Michael Murphy</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p> 2:50pm- 3:30pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-2">An Intervention for ActiveRecord</a></h5>
+        <p>Ernie Miller</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-40">What Ruby Developers Can Learn From Go</a></h5>
+        <p>Lionel Barrow</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5><a href="talks#talk-48">Designing great APIs: Learning from Jony Ive, Orwell, and the Kano ...</a></h5>
+        <p>Jon Dahl</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5>Intro Workshop: Testing Complex Systems</h5>
+        <p>Noel Rappin</p>
+      </div>
+      <div class="slot ">
+        <h4>P&amp;S</h4>
+        <h5><a href="talks#talk-58">Forget Scaling: Focus on Performance</a></h5>
+        <p>Terence Lee</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Break</h3>
+    <p> 3:30pm- 4:00pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot full">
+        <h4></h4>
+        <h5>Afternoon break</h5>
+        
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p> 4:00pm- 4:40pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-17">Data Storage: NoSQL Toasters and a Cloud of Kitchen Sinks</a></h5>
+        <p>Casey Rosenthal</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-27">Delicious Controversy: Docs &amp; Tests</a></h5>
+        <p>Thomas Meeks</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5></h5>
+        <p>Cancelled</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5><a href="talks#talk-66">Ruby Libraries Important for Rails</a></h5>
+        <p>Michael Hartl</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Session</h3>
+    <p> 4:50pm- 5:30pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot ">
+        <h4>252+253</h4>
+        <h5><a href="talks#talk-25">Pry — The Good Parts!</a></h5>
+        <p>Conrad Irwin</p>
+      </div>
+      <div class="slot ">
+        <h4>254</h4>
+        <h5><a href="talks#talk-31">How to Write Documentation for People That Don&#x27;t Read</a></h5>
+        <p>Kevin Burke</p>
+      </div>
+      <div class="slot ">
+        <h4>255</h4>
+        <h5><a href="talks#talk-39">Postgres, the Best Tool You&#x27;re Already Using</a></h5>
+        <p>Adam Sanderson</p>
+      </div>
+      <div class="slot ">
+        <h4>Intro</h4>
+        <h5>Intro Workshop: Ruby Libraries Important for Rails</h5>
+        <p>Michael Hartl</p>
+      </div>
+  </div>
+
+  <div class="break"></div>
+  <div class="timeslot">
+    <h3>Party</h3>
+    <p> 5:30pm- 7:00pm</p>
+  </div><!--/timeslot-->
+
+  <div class="talkgroup">
+      <div class="slot full">
+        <h4></h4>
+        <h5>Happy hour</h5>
+        
+      </div>
+  </div>
+
+  <div class="break"></div>
+
+<div class="break"></div>
+
+    </div>
+  </div>
+
+  <div id="sponsorsWrapper">
+    <div class="inner">
+        <div class="tier">
+          <h4>Platinum Sponsors</h4>
+          <div class="logos">
+            <a href="sponsors#tilde"><img alt="Tilde" class="sponsor-footer-logo" src="../assets/sponsors/tilde-150x60-89a19f44594387fe5a81910e53060b0d.png" /></a>
+          </div>
+        </div>
+        <div class="tier">
+          <h4>Gold Sponsors</h4>
+          <div class="logos">
+            <a href="sponsors#new-relic"><img alt="New Relic" class="sponsor-footer-logo" src="../assets/sponsors/new-relic-150x60-99eb83703aaec51b7e70555054a67445.png" /></a>
+            <a href="sponsors#heroku"><img alt="Heroku" class="sponsor-footer-logo" src="../assets/sponsors/heroku-150x60-3fb3e8d7b56dcb1ab8b0146a648b3161.png" /></a>
+            <a href="sponsors#developer-auction"><img alt="Developer Auction" class="sponsor-footer-logo" src="../assets/sponsors/developer-auction-150x60-90bf5bd08d3107cc614d48a8606acfcb.png" /></a>
+          </div>
+        </div>
+        <div class="tier">
+          <h4>Silver Sponsors</h4>
+          <div class="logos">
+            <a href="sponsors#engine-yard"><img alt="Engine Yard" class="sponsor-footer-logo" src="../assets/sponsors/engine-yard-150x60-e6a420e31fe3efa630bd30f76ee0df35.png" /></a>
+            <a href="sponsors#wyeworks"><img alt="WyeWorks" class="sponsor-footer-logo" src="../assets/sponsors/wyeworks-150x60-faf92131e168983534174d450ffa728f.png" /></a>
+            <a href="sponsors#whitepages"><img alt="WhitePages" class="sponsor-footer-logo" src="../assets/sponsors/whitepages-150x60-ca83ec73a6fb9687c57d7c05e0bb8a41.png" /></a>
+            <a href="sponsors#jetbrains"><img alt="JetBrains" class="sponsor-footer-logo" src="../assets/sponsors/jetbrains-150x60-b2ce40c8f4c52a81840113c7bbdf0917.png" /></a>
+            <a href="sponsors#blue-box"><img alt="Blue Box" class="sponsor-footer-logo" src="../assets/sponsors/blue-box-150x60-299c5f063e3e3313f1616df47f511d16.png" /></a>
+            <a href="sponsors#hp"><img alt="HP" class="sponsor-footer-logo" src="../assets/sponsors/hp-150x60-6cefe0717ab1a1dd08b7f302459c4cdc.png" /></a>
+          </div>
+        </div>
+        <div class="tier">
+          <h4>Exhibitors</h4>
+          <div class="logos">
+            <a href="sponsors#hulu"><img alt="Hulu" class="sponsor-footer-logo" src="../assets/sponsors/hulu-150x60-0803552aa618dc697875604a7e8ea2e0.png" /></a>
+            <a href="sponsors#linode"><img alt="Linode" class="sponsor-footer-logo" src="../assets/sponsors/linode-150x60-d5cdfb59e5c33ea825b54310a9f74ffa.png" /></a>
+            <a href="sponsors#cookpad"><img alt="COOKPAD" class="sponsor-footer-logo" src="../assets/sponsors/cookpad-150x60-05d1d13e2185663819f4644a91790a29.png" /></a>
+            <a href="sponsors#lumos-labs"><img alt="Lumos Labs" class="sponsor-footer-logo" src="../assets/sponsors/lumos-labs-150x60-75fd368583abed1e6286d07ff78c7c6e.png" /></a>
+            <a href="sponsors#wgs"><img alt="WGS" class="sponsor-footer-logo" src="../assets/sponsors/wgs-150x60-0065d561806769754e5f57f20f3eda2a.png" /></a>
+            <a href="sponsors#sendgrid"><img alt="SendGrid" class="sponsor-footer-logo" src="../assets/sponsors/sendgrid-150x60-19166e958d7c5aadddea85825602a2f8.png" /></a>
+            <a href="sponsors#women-who-code"><img alt="Women Who Code" class="sponsor-footer-logo" src="../assets/sponsors/women-who-code-150x60-e1de9677736f908f7e5477044c455775.png" /></a>
+            <a href="sponsors#amazon"><img alt="Amazon" class="sponsor-footer-logo" src="../assets/sponsors/amazon-150x60-5905af91d6e6d6c28935739fbaac54d6.png" /></a>
+          </div>
+        </div>
+
+    <div class="sponsorsAction">
+      Interesting in becoming a sponsor? View the <a href="prospectus.pdf">sponsorship prospectus</a> or <a href="mailto:sponsors@rubycentral.org">contact us</a> for more information.
+    </div>
+
+    <div class="break"></div>
+    </div><!--/inner-->
+  </div><!--sponsorWrapper-->
+
+  <div id="footerWrapper">
+    <div class="inner">
+    <p class="btyb">Brought to you by</p>
+    <a href="http://www.rubycentral.org/"><img alt="Ruby Central" src="../assets/rubycentral-7b75fae385913a25ec6100fdadd4e656.png" /></a>
+
+    <p class="links">&copy; 2013 Ruby Central, Inc. Question or comment? <a href="mailto:railsconf@rubycentral.org">Let us know!</a><br />
+      Follow us <a href="http://twitter.com/railsconf">@railsconf</a>
+    </p>
+    </div><!--/inner-->
+  </div><!--footerWrapper-->
+
+</div><!--/siteWrapper-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34011278-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
