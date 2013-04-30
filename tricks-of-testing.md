@@ -55,3 +55,5 @@ https://github.com/psyho/bogus
 https://github.com/benmoss/quacky
 https://github.com/xaviershay/rspec-fire
 https://github.com/cfcosta/minitest-firemock
+
+Good tests insist on simplicity.
